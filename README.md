@@ -1,5 +1,5 @@
 # KittehAdventure
-A cute 2D Adventure Android/iOS game about a lost cat who escape from it's home. You job is to help find it's way home!
+With its adorable graphics, engaging storyline, and intuitive gameplay mechanics, this 2D Adventure game is the perfect choice for players of all ages and skill levels, offering hours of fun and entertainment.
 
 ### About the development
 This game was created with the Coco2D Engine. In order to compile this, you must install the Coco2D engine from their website https://www.cocos.com/en/ and then follow the instructions on how to compile the Coco2D Engine.
